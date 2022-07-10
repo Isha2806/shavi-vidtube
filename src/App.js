@@ -1,10 +1,10 @@
 import "./App.css";
-import logo from "./logo.png";
+import Router from "./Utilities/reactRouter";
 
 function App() {
   return (
     <div className="App">
-    <h1>This is shavi-vidtube.</h1>
+      <Router/>
     </div>
   );
 }
