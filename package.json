@@ -4,6 +4,9 @@
   "private": true,
   "dependencies": {
     "dayjs": "^1.11.3",
+    "dotenv": "^16.0.0",
+    "json-web-token": "^3.2.0",
+    "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^3.1.2",
     "jwt-encode": "^1.0.1",
     "miragejs": "^0.1.45",
@@ -12,6 +15,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
+    "react-toastify": "^9.0.5",
     "uuid": "^8.3.2"
   },
   "scripts": {
