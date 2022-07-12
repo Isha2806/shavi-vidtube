@@ -5,6 +5,7 @@
   "dependencies": {
     "dayjs": "^1.11.3",
     "dotenv": "^16.0.0",
+    "env-cmd": "^10.1.0",
     "json-web-token": "^3.2.0",
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^3.1.2",
